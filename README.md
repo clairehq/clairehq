@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @clairehq
+- 👋 Hi, I’m Claire Li
 - 👀 I’m interested in ux design
 - 🌱 I’m currently learning ux design
 - 💞️ I’m looking to collaborate on entry-level ux design position
